@@ -47,5 +47,3 @@ Email: star_dust_chen@foxmail.com
 Bilibili: @Stardust_减
 Github: @Stardust-minus
 ```
-
-[![☬](https://img.shields.io/badge/-@StackerDesu-%23181717?style=flat-square&logo=github)](https://github.com/Stardust-minus)
