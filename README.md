@@ -1,6 +1,6 @@
 <!--suppress ALL -->
 
-# 🤸 ஐ Stacker ஐ <img alt="GitHub followers" src="https://img.shields.io/github/followers/Stardust-minus?style=flat-square&logo=github" /> <a href="https://twitter.com/LITIANYU9"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/LITIANYU9?style=flat-square&logo=twitter" /></a>
+# 🤸 ஐ Stardust·星之尘埃 ஐ <img alt="GitHub followers" src="https://img.shields.io/github/followers/Stardust-minus?style=flat-square&logo=github" /> <a href="https://twitter.com/LITIANYU9"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/LITIANYU9?style=flat-square&logo=twitter" /></a>
 
 
 <img align="right" width="400" src="rain0.gif" />
@@ -43,9 +43,9 @@ pub extern "C" fn _start() -> ! {
 # 📞 ❅ Contact ❅
 
 ```text
-Email: mistyraincloudservice@gmail.com
-Twitter: @StackerDesu
-Github: @StackerDesu
+Email: star_dust_chen@foxmail.com
+Bilibili: @Stardust_减
+Github: @Stardust-minus
 ```
 
-[![☬](https://img.shields.io/badge/-@StackerDesu-%23181717?style=flat-square&logo=github)](https://github.com/Stardust-minus)
+[![☬](https://img.shields.io/badge/-@Stardust-minus-%23181717?style=flat-square&logo=github)](https://github.com/Stardust-minus)
