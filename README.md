@@ -1,6 +1,6 @@
 <!--suppress ALL -->
 
-# 🤸 ஐ Stardust·星之尘埃 ஐ <img alt="GitHub followers" src="https://img.shields.io/github/followers/Stardust-minus?style=flat-square&logo=github" /> <a href="https://twitter.com/LITIANYU9"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/LITIANYU9?style=flat-square&logo=twitter" /></a>
+# 🤸 ஐ Stardust·星之尘埃 ஐ <img alt="GitHub followers" src="https://img.shields.io/github/followers/Stardust-minus?style=flat-square&logo=github" /> 
 
 
 <img align="right" width="400" src="rain0.gif" />
