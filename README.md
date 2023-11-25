@@ -26,12 +26,7 @@ pub extern "C" fn _start() -> ! {
 ```
 
 # 📕 ❀ Languages ❀
-
-<code><img height="30" width="30" src="rust.png"></code>
-<code><img height="30" width="30" src="csharp.png"></code>
 <code><img height="30" width="30" src="python.png"></code>
-<code><img height="30" width="30" src="cpp.png"></code>
-<code><img height="30" width="30" src="golang.png"></code>
 
 # 📃 〄 Analysis 〄
 
