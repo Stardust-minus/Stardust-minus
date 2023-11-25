@@ -25,13 +25,12 @@ pub extern "C" fn _start() -> ! {
 }
 ```
 
-# 📕 ❀ Languages ❀
+# 📕 ❀ Language ❀
 <code><img height="30" width="30" src="python.png"></code>
 
 # 📃 〄 Analysis 〄
 
 <img width="44%" align="left" src="https://github-readme-stats.vercel.app/api?username=Stardust-minus&count_private=true&show_icons=true&theme=radical" />
-<img width="44%" align ="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stardust-minus&theme=radical" />
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Stardust-minus&theme=monokai" />
 
 # 📞 ❅ Contact ❅
