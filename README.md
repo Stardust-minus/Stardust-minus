@@ -36,7 +36,7 @@ pub extern "C" fn _start() -> ! {
 # 📞 ❅ Contact ❅
 
 ```text
-Email: star_dust_chen@foxmail.com
+Email: stardust@fish.audio
 Bilibili: @Stardust_减
 Github: @Stardust-minus
 QQ:2225664821
