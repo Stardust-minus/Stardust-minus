@@ -36,7 +36,7 @@ pub extern "C" fn _start() -> ! {
 # 📞 ❅ Contact ❅
 
 ```text
-Email: mansui.lty@alibaba-inc.com
+Email: stardust@fish.audio
 Bilibili: @Stardust_减
 Github: @Stardust-minus
 QQ:2225664821
