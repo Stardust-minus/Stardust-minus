@@ -25,8 +25,8 @@ pub extern "C" fn _start() -> ! {
 }
 ```
 
-# 📕 ❀ Language ❀
-<code><img height="30" width="30" src="python.png"></code>
+# 📕 ❀ Website ❀
+[![Stardust Preview](https://hanabi-ai.cn/preview.png)](https://hanabi-ai.cn)
 
 # 📃 〄 Analysis 〄
 
