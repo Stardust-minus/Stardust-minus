@@ -110,6 +110,7 @@
 <img src="https://img.shields.io/badge/GPU-100~1000%2B-76B900?style=flat-square&logo=nvidia&logoColor=white" />
 <img src="https://img.shields.io/badge/Storage-PB%20scale-4ECDC4?style=flat-square&logo=ceph&logoColor=white" />
 <img src="https://img.shields.io/badge/Public%20Network-100Gbps%2B-58A6FF?style=flat-square&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/ASN-AS402567-58A6FF?style=flat-square&logo=cloudflare&logoColor=white" />
 <img src="https://img.shields.io/badge/Scheduler-Slurm-326CE5?style=flat-square&logo=linux&logoColor=white" />
 <img src="https://img.shields.io/badge/Scheduler-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
 
@@ -119,7 +120,7 @@
 <tr>
 <td>
 
-> Operating **100–1,000+ GPU** training clusters, **petabyte-scale** storage, and **100Gbps+ public network** for FishAudio. Dual-stack scheduling with **Slurm** (HPC/bare-metal training) and **Kubernetes** (services & MLOps), backed by **Ceph** and friends — the substrate beneath our production TTS models.
+> Operating **100–1,000+ GPU** training clusters, **petabyte-scale** storage, and **100Gbps+ public network** (our own ASN **AS402567**) for FishAudio. Dual-stack scheduling with **Slurm** (HPC/bare-metal training) and **Kubernetes** (services & MLOps), backed by **Ceph** and friends — the substrate beneath our production TTS models.
 
 </td>
 </tr>
