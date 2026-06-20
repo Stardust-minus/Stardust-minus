@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Dynamic Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Stardust+%C2%B7+%E6%98%9F%E4%B9%8B%E5%B0%98%E5%9F%83;Infra+Engineer+%40+FishAudio;GPU+Cluster+Operator;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Stardust;Infra+Engineer+%40+FishAudio;GPU+Cluster+Operator;Open+Source+Contributor)](https://git.io/typing-svg)
 
 <img src="https://img.shields.io/github/followers/Stardust-minus?style=for-the-badge&color=58A6FF&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/Location-China-FF6B6B?style=for-the-badge&labelColor=0D1117" />
@@ -13,27 +13,19 @@
 
 ---
 
-> *流华虽易逝,烛萤却长明。烛光萤火聚,共舞翩跹流年锦。*
+> 流华虽易逝,烛萤却长明。烛光萤火聚,共舞翩跹流年锦。
 
 ---
 
-## About Me / 关于我
+## About Me
 
 <table>
 <tr>
 <td width="60%">
 
-**English**
-
 > Sophomore student passionate about **Cloud Native** infrastructure and **High Performance Computing**. Currently working at **39 AI / FishAudio** as an Infrastructure Engineer, specializing in GPU cluster operations at scale.
 >
 > Previously an **Audio Algorithm Engineer** focusing on TTS/SVC model development. Transitioned to Infrastructure to build the systems that power AI — from bare-metal GPU clusters to Kubernetes-orchestrated training pipelines.
-
-**中文**
-
-> 大二在读,专注于**云原生**基础设施与**高性能计算**。现任职于 **39 AI / FishAudio** 担任基础架构工程师,负责大规模 GPU 集群运维。
->
-> 曾任**音频算法工程师**,从事 TTS/SVC 语音合成模型研发。后转型基础设施,致力于构建支撑 AI 的底层系统 —— 从裸机 GPU 集群到 Kubernetes 编排的训练流水线。
 
 </td>
 <td width="40%" align="center">
@@ -56,7 +48,7 @@
 
 ---
 
-## Tech Stack / 技术栈
+## Tech Stack
 
 <div align="center">
 
@@ -84,9 +76,9 @@
 
 ---
 
-## Featured Projects / 主要项目
+## Featured Projects
 
-> Projects from the FishAudio team that I contribute to / 我参与贡献的 FishAudio 团队项目
+> Projects from the FishAudio team that I contribute to
 
 <div align="center">
 
@@ -103,14 +95,14 @@
 | [**fish-speech**](https://github.com/fishaudio/fish-speech) | SOTA Open Source TTS | ![Stars](https://img.shields.io/github/stars/fishaudio/fish-speech?style=flat-square&color=FFD700) |
 | [**so-vits-svc**](https://github.com/svc-develop-team/so-vits-svc) | SoftVC VITS Singing Voice Conversion | ![Stars](https://img.shields.io/github/stars/svc-develop-team/so-vits-svc?style=flat-square&color=FFD700) |
 | [**Bert-VITS2**](https://github.com/fishaudio/Bert-VITS2) | VITS2 backbone with multilingual-bert | ![Stars](https://img.shields.io/github/stars/fishaudio/Bert-VITS2?style=flat-square&color=C0C0C0) |
-| [**ZeroBot-Plugin**](https://github.com/FloatTech/ZeroBot-Plugin) | 基于 ZeroBot 的 OneBot 插件 | ![Stars](https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&color=C0C0C0) |
+| [**ZeroBot-Plugin**](https://github.com/FloatTech/ZeroBot-Plugin) | OneBot plugin based on ZeroBot | ![Stars](https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&color=C0C0C0) |
 | [**fish-diffusion**](https://github.com/fishaudio/fish-diffusion) | An easy to understand TTS / SVS / SVC framework | ![Stars](https://img.shields.io/github/stars/fishaudio/fish-diffusion?style=flat-square&color=CD7F32) |
 
 </div>
 
 ---
 
-## What I Do / 工作内容
+## What I Do
 
 <div align="center">
 
@@ -126,13 +118,7 @@
 <tr>
 <td>
 
-**English**
-
 > Operating **100–1,000+ GPU** training clusters and **petabyte-scale** storage for FishAudio. Dual-stack scheduling with **Slurm** (HPC/bare-metal training) and **Kubernetes** (services & MLOps), backed by **Ceph** and friends — the substrate beneath our production TTS models.
-
-**中文**
-
-> 负责 FishAudio **百卡到千卡级** GPU 训练集群与 **PB 级**存储的运维。采用 **Slurm**(HPC / 裸机训练)与 **Kubernetes**(服务与 MLOps)双栈调度,底层存储基于 **Ceph** 等 —— 支撑团队生产级 TTS 模型的底座。
 
 </td>
 </tr>
@@ -164,7 +150,7 @@ mindmap
 
 ---
 
-## GitHub Stats / 统计
+## GitHub Stats
 
 <div align="center">
 
@@ -181,7 +167,7 @@ mindmap
 
 ---
 
-## Contact / 联系方式
+## Contact
 
 <div align="center">
 
@@ -200,6 +186,6 @@ mindmap
 
 > *"In the world of Infra, every star matters."*
 
-**Building the infrastructure for the AI era / 为 AI 时代构建基础设施**
+**Building the infrastructure for the AI era**
 
 </div>
