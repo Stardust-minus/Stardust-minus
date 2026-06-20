@@ -3,13 +3,17 @@
 <div align="center">
 
 <!-- Dynamic Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Stardust+%C2%B7+%E6%98%9F%E4%B9%8B%E5%B0%98%E5%9F%83;Infra+Engineer+%40+FishAudio;GPU+Cluster+Operator;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Stardust+%C2%B7+%E6%98%9F%E4%B9%8B%E5%B0%98%E5%9F%83;Infra+Engineer+%40+FishAudio;GPU+Cluster+Operator;Open+Source+Contributor)](https://git.io/typing-svg)
 
 <img src="https://img.shields.io/github/followers/Stardust-minus?style=for-the-badge&color=58A6FF&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/Location-China-FF6B6B?style=for-the-badge&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/Role-Infra%20Engineer-4ECDC4?style=for-the-badge&labelColor=0D1117" />
 
 </div>
+
+---
+
+> *流华虽易逝,烛萤却长明。烛光萤火聚,共舞翩跹流年锦。*
 
 ---
 
@@ -27,9 +31,9 @@
 
 **中文**
 
-> 大二在读，专注于**云原生**基础设施与**高性能计算**。现任职于 **39 AI / FishAudio** 担任基础架构工程师，负责大规模 GPU 集群运维。
+> 大二在读,专注于**云原生**基础设施与**高性能计算**。现任职于 **39 AI / FishAudio** 担任基础架构工程师,负责大规模 GPU 集群运维。
 >
-> 曾任**音频算法工程师**，从事 TTS/SVC 语音合成模型研发。后转型基础设施，致力于构建支撑 AI 的底层系统 —— 从裸机 GPU 集群到 Kubernetes 编排的训练流水线。
+> 曾任**音频算法工程师**,从事 TTS/SVC 语音合成模型研发。后转型基础设施,致力于构建支撑 AI 的底层系统 —— 从裸机 GPU 集群到 Kubernetes 编排的训练流水线。
 
 </td>
 <td width="40%" align="center">
@@ -82,7 +86,7 @@
 
 ## 🌟 Featured Projects / 主要项目
 
-> Projects I've contributed to / 我参与的开源项目
+> Projects from the FishAudio team that I contribute to / 我参与贡献的 FishAudio 团队项目
 
 <div align="center">
 
@@ -134,12 +138,29 @@ mindmap
 
 ---
 
+## 📊 GitHub Stats / 统计
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Stardust-minus&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Stardust-minus&theme=tokyonight&hide_border=true" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stardust-minus&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Stardust-minus&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
 ## 📫 Contact / 联系方式
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-stardust@fish.audio-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stardust@fish.audio)
-[![Bilibili](https://img.shields.io/badge/Bilibili-@Stardust__减-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/)
+[![Bilibili](https://img.shields.io/badge/Bilibili-@Stardust__减-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/163056936)
 [![GitHub](https://img.shields.io/badge/GitHub-@Stardust--minus-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Stardust-minus)
 
 </div>
