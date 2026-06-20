@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 About Me / 关于我
+## About Me / 关于我
 
 <table>
 <tr>
@@ -39,14 +39,14 @@
 <td width="40%" align="center">
 
 ```
-    ⭐ Stardust ⭐
+    Stardust
     ═══════════════════════
-    🎓 Sophomore
-    💻 Infra Engineer
-    🐟 FishAudio
-    ☁️  Cloud Native
-    ⚡ HPC & GPU Cluster
-    🔊 Ex-Audio Algorithm
+    Sophomore
+    Infra Engineer
+    FishAudio
+    Cloud Native
+    HPC & GPU Cluster
+    Ex-Audio Algorithm
     ═══════════════════════
 ```
 
@@ -56,7 +56,7 @@
 
 ---
 
-## 🔧 Tech Stack / 技术栈
+## Tech Stack / 技术栈
 
 <div align="center">
 
@@ -84,7 +84,7 @@
 
 ---
 
-## 🌟 Featured Projects / 主要项目
+## Featured Projects / 主要项目
 
 > Projects from the FishAudio team that I contribute to / 我参与贡献的 FishAudio 团队项目
 
@@ -110,7 +110,33 @@
 
 ---
 
-## 💼 What I Do / 工作内容
+## What I Do / 工作内容
+
+<div align="center">
+
+<!-- Scale at a glance -->
+<img src="https://img.shields.io/badge/GPU-100~1000%2B-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+<img src="https://img.shields.io/badge/Storage-PB%20scale-4ECDC4?style=flat-square&logo=ceph&logoColor=white" />
+<img src="https://img.shields.io/badge/Scheduler-Slurm-326CE5?style=flat-square&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Scheduler-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+
+</div>
+
+<table>
+<tr>
+<td>
+
+**English**
+
+> Operating **100–1,000+ GPU** training clusters and **petabyte-scale** storage for FishAudio. Dual-stack scheduling with **Slurm** (HPC/bare-metal training) and **Kubernetes** (services & MLOps), backed by **Ceph** and friends — the substrate beneath our production TTS models.
+
+**中文**
+
+> 负责 FishAudio **百卡到千卡级** GPU 训练集群与 **PB 级**存储的运维。采用 **Slurm**(HPC / 裸机训练)与 **Kubernetes**(服务与 MLOps)双栈调度,底层存储基于 **Ceph** 等 —— 支撑团队生产级 TTS 模型的底座。
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
@@ -138,7 +164,7 @@ mindmap
 
 ---
 
-## 📊 GitHub Stats / 统计
+## GitHub Stats / 统计
 
 <div align="center">
 
@@ -155,7 +181,7 @@ mindmap
 
 ---
 
-## 📫 Contact / 联系方式
+## Contact / 联系方式
 
 <div align="center">
 
@@ -172,9 +198,8 @@ mindmap
 <!-- Visitor Counter -->
 <img src="https://komarev.com/ghpvc/?username=Stardust-minus&color=58A6FF&style=flat-square&label=Visitors" />
 
-<!-- Quote -->
-> *"In the world of Infra, every star matters."* ⭐
+> *"In the world of Infra, every star matters."*
 
-**✨ Building the infrastructure for the AI era / 为 AI 时代构建基础设施 ✨**
+**Building the infrastructure for the AI era / 为 AI 时代构建基础设施**
 
 </div>
