@@ -23,7 +23,7 @@
 <tr>
 <td width="60%">
 
-> Sophomore student passionate about **Cloud Native** infrastructure and **High Performance Computing**. Currently working at **39 AI / FishAudio** as an Infrastructure Engineer, specializing in GPU cluster operations at scale.
+> Junior student passionate about **Cloud Native** infrastructure and **High Performance Computing**. Currently working at **39 AI / FishAudio** as an Infrastructure Engineer, specializing in GPU cluster operations at scale.
 >
 > Previously an **Audio Algorithm Engineer** focusing on TTS/SVC model development. Transitioned to Infrastructure to build the systems that power AI — from bare-metal GPU clusters to Kubernetes-orchestrated training pipelines.
 
